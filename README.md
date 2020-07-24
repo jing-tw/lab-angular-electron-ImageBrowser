@@ -1,3 +1,12 @@
+# Original Doc
+This sample code was copied from thd document of "Build a Desktop Application with Angular and Electron"[1]. Here is the note[2] for the knowledge structure.
+
+
+References
+1. Build a Desktop Application with Angular and Electron, https://developer.okta.com/blog/2019/03/20/build-desktop-app-with-angular-electron
+2. Note, https://docs.google.com/spreadsheets/d/1GVHKCn4pYTt88S564oK3YJ3Ckmq2PjN5DjHFxY3Zn2g/edit?usp=sharing
+
+
 # ImageBrowser
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
