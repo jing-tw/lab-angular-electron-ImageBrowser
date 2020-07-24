@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "outDir": "./dist",
+      "module": "commonjs",
+      "skipLibCheck": true,
+      "noImplicitAny": false,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+  },
+  "files": [
+      "main.ts"
+  ]
+}
+
